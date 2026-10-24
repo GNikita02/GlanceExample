@@ -2,6 +2,7 @@ package com.example.glanceexample
 
 import android.content.Context
 import androidx.glance.appwidget.GlanceAppWidgetReceiver
+import com.example.glance.StockAppWidget
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
